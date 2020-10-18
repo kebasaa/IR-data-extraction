@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/305130504.svg)](https://zenodo.org/badge/latestdoi/305130504)
+
 IR data extract
 ================
 
@@ -13,6 +15,13 @@ The following python packages are required to read the FLIR files:
   - Math
   - Matplotlib
   - PIL
+
+# How to Cite
+
+Jonathan D. Muller, Lior Segev. (18 October 2020). IR-data-extract: Tool to extract FLIR raw data. DOI: 10.5281/zenodo.4104314  (URL:
+<https://zenodo.org/record/4104314>), Python notebook
+
+[![DOI](https://zenodo.org/badge/305130504.svg)](https://zenodo.org/badge/latestdoi/305130504)
 
 # License
 
